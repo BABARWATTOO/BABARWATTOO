@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BABARWATTOO
+- 👋 Hi, I’m @babar wattoo
 - 👀 I’m interested in web Development 
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
